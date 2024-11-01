@@ -191,6 +191,6 @@
     "update-electron-app": "^3.0.0",
     "wavesurfer.js": "^7.8.7",
     "zod": "^3.23.8",
-    "zod-to-json-schema": "^3.23.3"
+    "zod-to-json-schema": "^3.23.5"
   }
 }
