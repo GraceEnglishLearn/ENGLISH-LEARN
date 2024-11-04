@@ -17,7 +17,7 @@ __metadata:
     markdown-it-sub: "npm:^2.0.0"
     markdown-it-sup: "npm:^2.0.0"
     mermaid: "npm:^11.3.0"
-    sass: "npm:^1.80.3"
+    sass: "npm:^1.80.6"
     swiper: "npm:^11.1.14"
     vitepress: "npm:^1.4.1"
     vitepress-plugin-mermaid: "npm:^2.0.17"
@@ -34,7 +34,7 @@ __metadata:
     nuxt: "npm:^3.13.2"
     nuxt-og-image: "npm:^3.0.6"
     postcss: "npm:^8.4.47"
-    sass: "npm:^1.80.3"
+    sass: "npm:^1.80.6"
     tailwindcss: "npm:^3.4.14"
     vue: "npm:^3.5.12"
     vue-router: "npm:^4.4.5"
@@ -20914,17 +20914,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass@npm:^1.80.3":
-  version: 1.80.3
-  resolution: "sass@npm:1.80.3"
+"sass@npm:^1.80.6":
+  version: 1.80.6
+  resolution: "sass@npm:1.80.6"
   dependencies:
     "@parcel/watcher": "npm:^2.4.1"
     chokidar: "npm:^4.0.0"
     immutable: "npm:^4.0.0"
     source-map-js: "npm:>=0.6.2 <2.0.0"
+  dependenciesMeta:
+    "@parcel/watcher":
+      optional: true
   bin:
     sass: sass.js
-  checksum: 10c0/fa08043fc36b854717b6eaf6247ee11341d0aff5e17a645965071866bd677930c9c9467d82ed5a4a666d7897a82be8a61427cd81b808e6b9e2d3b32cf278bebd
+  checksum: 10c0/04ce40d4dcf06cf2a94a66c1cc4fd4a9eb4033fd039291acd0be9d1d4123860da568c5cbef9de8493ffbedd8acae1cd0b8346f5da21c6f7cf0ffd3477730beca
   languageName: node
   linkType: hard
 
