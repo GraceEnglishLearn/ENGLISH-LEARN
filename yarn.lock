@@ -3594,15 +3594,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@langchain/ollama@npm:^0.1.0":
-  version: 0.1.0
-  resolution: "@langchain/ollama@npm:0.1.0"
+"@langchain/ollama@npm:^0.1.2":
+  version: 0.1.2
+  resolution: "@langchain/ollama@npm:0.1.2"
   dependencies:
-    ollama: "npm:^0.5.6"
+    ollama: "npm:^0.5.9"
     uuid: "npm:^10.0.0"
   peerDependencies:
     "@langchain/core": ">=0.2.21 <0.4.0"
-  checksum: 10c0/9550c902afd76aac0be62e61e4bab99ec813f7480e4559a7c2663e020976c1c325458741b67abd6943a00355dc311561749d8616da75aa14a815986cf8dc17c7
+  checksum: 10c0/15bffb3f3033ffe6f49c3807307be5a1245af1287d96d983fc8bc2743018369875a45d4917bfa8b17fea2b89d58eef7a1c56818ed336520707a81269439a5adc
   languageName: node
   linkType: hard
 
@@ -12112,7 +12112,7 @@ __metadata:
     "@hookform/resolvers": "npm:^3.9.0"
     "@langchain/community": "npm:^0.3.6"
     "@langchain/core": "npm:^0.3.13"
-    "@langchain/ollama": "npm:^0.1.0"
+    "@langchain/ollama": "npm:^0.1.2"
     "@mozilla/readability": "npm:^0.5.0"
     "@playwright/test": "npm:^1.48.1"
     "@radix-ui/react-accordion": "npm:^1.2.1"
@@ -18396,7 +18396,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ollama@npm:^0.5.6":
+"ollama@npm:^0.5.9":
   version: 0.5.9
   resolution: "ollama@npm:0.5.9"
   dependencies:
